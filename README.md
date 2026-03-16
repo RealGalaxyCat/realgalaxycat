@@ -2,7 +2,7 @@
 ## Networking • API Reverse Engineering • Data Analysis
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealGalaxyCat&theme=blue-green" height="160">
+    <img src="https://github-readme-stats-realgalaxycat.vercel.app/api?username=RealGalaxyCat&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160">
     <br>
     <img src="https://github-readme-stats-realgalaxycat.vercel.app/api/top-langs?username=RealGalaxyCat&layout=compact&theme=dark&hide=html,css" height="160">
 </p>
