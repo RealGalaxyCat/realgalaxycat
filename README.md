@@ -26,21 +26,21 @@
 <br>
 
 # ⚙️ Tech Stack
-## Development Tools
+### Development Tools
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6633?logo=postman&logoColor=white)](#)
 
 
-## Used in Personal Projects
+### Used in Personal Projects
 
 [![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-A22846?logo=raspberry-pi&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-%23000B25.svg?logo=Jellyfin&logoColor=00A4DC)](#)
 
 
-## Backend / Development
+### Backend / Development
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
@@ -48,7 +48,7 @@
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?logo=sqlalchemy&logoColor=white)](#)
 
 
-## Other Proficiencies
+### Other Proficiencies
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
