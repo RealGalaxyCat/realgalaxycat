@@ -36,6 +36,7 @@
 ### Used in Personal Projects
 
 [![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-A22846?logo=raspberry-pi&logoColor=white)](#)
+[![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-C51A4A?logo=raspberry-pi&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-%23000B25.svg?logo=Jellyfin&logoColor=00A4DC)](#)
 
