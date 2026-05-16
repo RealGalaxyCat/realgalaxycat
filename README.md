@@ -28,13 +28,10 @@
 <div align="center">
     <h3>Development Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,docker,postman,pycharm,webstorm">
-
     <h3>Used in personal projects</h3>
     <img src="https://skillicons.dev/icons?i=raspberrypi,ubuntu">
-
     <h3>Backend / Databases</h3>
     <img src="https://skillicons.dev/icons?i=py,fastapi,flask,sqlite">
-    
     <h3>Other Skills</h3>
     <img src="https://skillicons.dev/icons?i=angular,js,ts,css,html,java,md,bash"><br>
     <img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens">
