@@ -30,8 +30,10 @@
     <img src="https://skillicons.dev/icons?i=git,docker,postman,pycharm,webstorm">
     <h3>Used in personal projects</h3>
     <img src="https://skillicons.dev/icons?i=raspberrypi,ubuntu">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n,pydantic,playwright,ollama">
     <h3>Backend / Databases</h3>
     <img src="https://skillicons.dev/icons?i=py,fastapi,flask,sqlite">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy">
     <h3>Other Skills</h3>
     <img src="https://skillicons.dev/icons?i=angular,js,ts,css,html,java,md,bash"><br>
     <img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens">
