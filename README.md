@@ -1,5 +1,5 @@
 # RealGalaxyCat
-## Networking • API Reverse Engineering • Data Analysis
+## Networking • REST APIs • Automation • ML
 
 <p align="center">
     <img src="https://github-readme-stats-realgalaxycat.vercel.app/api?username=RealGalaxyCat&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160">
